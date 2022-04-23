@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song titles
-const songs = ['Shine-on','Believe','Great'];
+const songs = ['Shine-on','believe','great'];
 
 // Keep track of song
 let songIndex = 1;
